@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+# Игнорируемые папки
+.target/
+.idea/
+
 # Log file
 *.log
 
